@@ -8,4 +8,8 @@ function finalGrade(exam, projects) {
   } else {
     return 0;
   }
+<<<<<<< HEAD
 }
+=======
+}
+>>>>>>> 0fead7194a96dbbe569f80f5c488c23aa2991287
