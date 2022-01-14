@@ -9,6 +9,6 @@ function removeExclamationMarks(s) {
         newStr += currentCharacter;
         }
     } 
-     return newStr;   
-  // return str
+   return newStr;   
 }
+  // return string
