@@ -14,4 +14,4 @@ function openOrSenior(data){
       }
     }
     return output;
-  }
+  } 
