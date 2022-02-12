@@ -10,5 +10,5 @@ function riders(stations) {
         
     }
      return rider;
-      
+    
     }
