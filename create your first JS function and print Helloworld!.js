@@ -1,4 +1,4 @@
 function helloWorld (){
-    let str = "Hello World";
+    var str = "Hello World!";
     console.log(str)
   }
