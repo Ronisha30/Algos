@@ -1,3 +1,4 @@
+//  Solution 1
 // Find the average of the numbers inside of the array 
 function find_average(array) {
     // Decleared a variable called total
@@ -11,3 +12,16 @@ function find_average(array) {
       return(total/array.length)
     }
     
+// Solution 2
+
+function find_average(array) {
+    // Decleared a variable called total
+    let total = 0;
+  if(array.length){ 
+    for(let i = 0; i < array.length; i++){
+    total += array[i]
+  }
+    return total/array.length
+    } else {
+    return 0;
+  }
