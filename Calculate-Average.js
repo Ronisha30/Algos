@@ -24,4 +24,5 @@ function find_average(array) {
     return total/array.length
     } else {
     return 0;
-  }
+}
+}
