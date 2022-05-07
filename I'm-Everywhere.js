@@ -37,3 +37,4 @@ function i(word) {
   // if the first letter is lowercase
   //Return the "i" + word
 }
+
