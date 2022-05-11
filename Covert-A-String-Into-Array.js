@@ -8,3 +8,5 @@ function stringToArray(string) {
   // Return that array as the new aray
   return arr;
 }
+
+
