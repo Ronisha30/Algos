@@ -1,6 +1,6 @@
 function digitize(n) {
-    // how can i change the digits in a number
-    // convert the number to a string
+    // How can I change the digits in a number
+    // Convert the number to a string
     let digitArray = n.toString().split('');
     //console.log(digitArray.reverse());
     let output = [];
