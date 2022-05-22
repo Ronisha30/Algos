@@ -2,7 +2,7 @@ function sumOfDifferences(arr) {
     // input: array
     // output: The sum of consecutive value pairs in an arr
   
-    // I will use the .sort() function I wangit my array to go in descending order
+    // I will use the .sort() function I want my array to go in descending order
     const sorted = arr.sort((a, b) => b - a);
     // Declear a variable called sum
     let sum = 0;
